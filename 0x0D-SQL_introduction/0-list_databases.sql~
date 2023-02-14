@@ -1,0 +1,10 @@
+
+
+
+
+
+
+0;276;0c-- Lists all databases of MySQL server
+SHOW DATABASES;                                            
+                                                                                                             -- Lists all databases of MySQL server
+SHOW DATABASES;
